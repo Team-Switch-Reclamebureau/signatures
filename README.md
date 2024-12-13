@@ -25,6 +25,20 @@ Dat lees je hier 👇🏻
 - [Tijmen](https://team-switch-reclamebureau.github.io/signatures/kerst/tijmen.html)
 - [Wil](https://team-switch-reclamebureau.github.io/signatures/kerst/wil.html)
 - [Zeppe](https://team-switch-reclamebureau.github.io/signatures/kerst/zeppe.html)
+
+### Nieuwjaar
+- [Claudia](https://team-switch-reclamebureau.github.io/signatures/newyear/claudia.html)
+- [Daniël](https://team-switch-reclamebureau.github.io/signatures/newyear/daniel.html)
+- [Jeffrey](https://team-switch-reclamebureau.github.io/signatures/newyear/jeffrey.html)
+- [Kevin](https://team-switch-reclamebureau.github.io/signatures/newyear/kevin.html)
+- [Lisanne](https://team-switch-reclamebureau.github.io/signatures/newyear/lisanne.html)
+- [Marco](https://team-switch-reclamebureau.github.io/signatures/newyear/marco.html)
+- [Marjan](https://team-switch-reclamebureau.github.io/signatures/newyear/marjan.html)
+- [Rasheeda](https://team-switch-reclamebureau.github.io/signatures/newyear/rasheeda.html)
+- [Thomas](https://team-switch-reclamebureau.github.io/signatures/newyear/thomas.html)
+- [Tijmen](https://team-switch-reclamebureau.github.io/signatures/newyear/tijmen.html)
+- [Wil](https://team-switch-reclamebureau.github.io/signatures/newyear/wil.html)
+- [Zeppe](https://team-switch-reclamebureau.github.io/signatures/newyear/zeppe.html)
  
 ## Stap 2
 
