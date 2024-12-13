@@ -1,9 +1,9 @@
 # Team Switch e-mail handtekeningen
 Hallo collega’s
  
-Het is weer tijd voor een nieuwe handtekening! Deze keer is het een *special edition*. Namelijk een BETER handtekening, beter heh?
+Het is weer tijd voor een nieuwe handtekening! 
  
-> "ja maar Kevin, hoe pas ik die shit aan?"
+> "ja maar Kevin, hoe pas ik dat ook alweer aan?"
  
 Dat lees je hier 👇🏻
 
