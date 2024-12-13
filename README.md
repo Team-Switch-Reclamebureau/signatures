@@ -8,9 +8,9 @@ Dat lees je hier 👇🏻
 
 ### Stap 1
 
-**Windows**: Open jouw handtekening in de bestanden hierboven en klik op de 'raw' link in Chrome of Firefox (dus niet in Internet Explorer of Edge). Selecteer alles (CTRL+A), kopieer vervolgens alles (CTRL+C).
+**Windows**: Open jouw handtekening in de bestanden hierboven en klik op de 'Download raw file' link. Open dan het .html bestand in Chrome of Firefox (dus niet in Internet Explorer of Edge). Selecteer alles (CTRL+A), kopieer vervolgens alles (CTRL+C).
 
-**Apple**: Open jouw handtekening in de bestanden hierboven en klik op de 'raw' link in Chrome of Firefox (dus niet in Safari). Selecteer alles (CMD+A), kopieer vervolgens alles (CMD+C).
+**Apple**: Open jouw handtekening in de bestanden hierboven en klik op de 'Download raw file' link. Open dan het .html bestand in Chrome of Firefox (dus niet in Safari). Selecteer alles (CMD+A), kopieer vervolgens alles (CMD+C).
  
 ### Stap 2
 
