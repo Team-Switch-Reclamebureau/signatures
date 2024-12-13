@@ -12,18 +12,18 @@ Dat lees je hier 👇🏻
 
 **Apple**: Open jouw handtekening door hieronder op je naam te klikken in Chrome of Firefox (dus niet in Safari). Selecteer alles (CMD+A), kopieer vervolgens alles (CMD+C).
 
-- [Kevin](https://team-switch-reclamebureau.github.io/signatures/kerst/kevin.html)
 - [Claudia](https://team-switch-reclamebureau.github.io/signatures/kerst/claudia.html)
-- [Daan](https://team-switch-reclamebureau.github.io/signatures/kerst/daan.html)
 - [Daniël](https://team-switch-reclamebureau.github.io/signatures/kerst/daniel.html)
 - [Jeffrey](https://team-switch-reclamebureau.github.io/signatures/kerst/jeffrey.html)
 - [Kevin](https://team-switch-reclamebureau.github.io/signatures/kerst/kevin.html)
 - [Lisanne](https://team-switch-reclamebureau.github.io/signatures/kerst/lisanne.html)
 - [Marco](https://team-switch-reclamebureau.github.io/signatures/kerst/marco.html)
 - [Marjan](https://team-switch-reclamebureau.github.io/signatures/kerst/marjan.html)
+- [Rasheeda](https://team-switch-reclamebureau.github.io/signatures/kerst/rasheeda.html)
 - [Thomas](https://team-switch-reclamebureau.github.io/signatures/kerst/thomas.html)
 - [Tijmen](https://team-switch-reclamebureau.github.io/signatures/kerst/tijmen.html)
 - [Wil](https://team-switch-reclamebureau.github.io/signatures/kerst/wil.html)
+- [Zeppe](https://team-switch-reclamebureau.github.io/signatures/kerst/zeppe.html)
  
 ### Stap 2
 
