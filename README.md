@@ -1,3 +1,4 @@
+# Team Switch e-mail handtekeningen
 Hallo collega’s
  
 Het is weer tijd voor een nieuwe handtekening! Deze keer is het een *special edition*. Namelijk een BETER handtekening, beter heh?
