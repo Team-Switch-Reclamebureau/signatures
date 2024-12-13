@@ -8,9 +8,22 @@ Dat lees je hier 👇🏻
 
 ### Stap 1
 
-**Windows**: Open jouw handtekening in de bestanden hierboven en klik op de 'raw' link in Chrome of Firefox (dus niet in Internet Explorer of Edge). Selecteer alles (CTRL+A), kopieer vervolgens alles (CTRL+C).
+**Windows**: Open jouw handtekening door hieronder op je naam te klikken in Chrome of Firefox (dus niet in Internet Explorer of Edge). Selecteer alles (CTRL+A), kopieer vervolgens alles (CTRL+C).
 
-**Apple**: Open jouw handtekening in de bestanden hierboven en klik op de 'raw' link in Chrome of Firefox (dus niet in Safari). Selecteer alles (CMD+A), kopieer vervolgens alles (CMD+C).
+**Apple**: Open jouw handtekening door hieronder op je naam te klikken in Chrome of Firefox (dus niet in Safari). Selecteer alles (CMD+A), kopieer vervolgens alles (CMD+C).
+
+- [Kevin](https://team-switch-reclamebureau.github.io/signatures/kerst/kevin.html)
+- [Claudia](https://team-switch-reclamebureau.github.io/signatures/kerst/claudia.html)
+- [Daan](https://team-switch-reclamebureau.github.io/signatures/kerst/daan.html)
+- [Daniël](https://team-switch-reclamebureau.github.io/signatures/kerst/daniel.html)
+- [Jeffrey](https://team-switch-reclamebureau.github.io/signatures/kerst/jeffrey.html)
+- [Kevin](https://team-switch-reclamebureau.github.io/signatures/kerst/kevin.html)
+- [Lisanne](https://team-switch-reclamebureau.github.io/signatures/kerst/lisanne.html)
+- [Marco](https://team-switch-reclamebureau.github.io/signatures/kerst/marco.html)
+- [Marjan](https://team-switch-reclamebureau.github.io/signatures/kerst/marjan.html)
+- [Thomas](https://team-switch-reclamebureau.github.io/signatures/kerst/thomas.html)
+- [Tijmen](https://team-switch-reclamebureau.github.io/signatures/kerst/tijmen.html)
+- [Wil](https://team-switch-reclamebureau.github.io/signatures/kerst/wil.html)
  
 ### Stap 2
 
