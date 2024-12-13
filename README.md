@@ -6,12 +6,13 @@ Het is weer tijd voor een nieuwe handtekening! Deze keer is het een *special edi
  
 Dat lees je hier 👇🏻
 
-### Stap 1
+## Stap 1
 
 **Windows**: Open jouw handtekening door hieronder op je naam te klikken in Chrome of Firefox (dus niet in Internet Explorer of Edge). Selecteer alles (CTRL+A), kopieer vervolgens alles (CTRL+C).
 
 **Apple**: Open jouw handtekening door hieronder op je naam te klikken in Chrome of Firefox (dus niet in Safari). Selecteer alles (CMD+A), kopieer vervolgens alles (CMD+C).
 
+### Kerst
 - [Claudia](https://team-switch-reclamebureau.github.io/signatures/kerst/claudia.html)
 - [Daniël](https://team-switch-reclamebureau.github.io/signatures/kerst/daniel.html)
 - [Jeffrey](https://team-switch-reclamebureau.github.io/signatures/kerst/jeffrey.html)
@@ -25,23 +26,23 @@ Dat lees je hier 👇🏻
 - [Wil](https://team-switch-reclamebureau.github.io/signatures/kerst/wil.html)
 - [Zeppe](https://team-switch-reclamebureau.github.io/signatures/kerst/zeppe.html)
  
-### Stap 2
+## Stap 2
 
 Open Outlook en maak een nieuwe mail.
  
-### Stap 3
+## Stap 3
 
 **Windows**: Ga naar ‘handtekening’ en klik vervolgens op ‘Handtekeningen’.
 
 **Apple**: Ga naar ‘handtekeningen’ en klik vervolgens op ‘Wijzig handtekening’.
  
-### Stap 4
+## Stap 4
 
 **Windows**: Selecteer je oude Switch handtekening en maak deze leeg. Alles selecteren en dan op delete drukken.
 
 **Apple**: Selecteer je oude Switch handtekening, klik op Edit en maak deze leeg. Alles selecteren (CMD+A) en dan op backspace drukken.
  
-### Stap 5
+## Stap 5
 
 **Windows**: Plak de gekopieerde tekst in de handtekening (CTRL+V) en klik op opslaan.
 
