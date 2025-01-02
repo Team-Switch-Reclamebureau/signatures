@@ -15,6 +15,7 @@ Dat lees je hier 👇🏻
 
 | Handtekeningen |  |  |  |
 |-----------|----------|-------|-----------|
+| Ciske     | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/ciske.html) | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/ciske.html) | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/ciske.html) |
 | Claudia   | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/claudia.html) | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/claudia.html) | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/claudia.html) |
 | Daniël    | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/daniel.html) | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/daniel.html) | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/daniel.html) |
 | Jeffrey   | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/jeffrey.html) | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/jeffrey.html) | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/jeffrey.html) |
