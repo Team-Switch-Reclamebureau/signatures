@@ -1,0 +1,89 @@
+<mjml>
+	<mj-head>
+		<mj-style> .body-left>div{ Margin: 0px 20px !important; } </mj-style>
+		<mj-attributes>
+			<mj-all
+				font-family="Calibri, Arial, sans-serif"
+				font-size="16px"
+				padding="0"
+			/>
+			<mj-text font-size="16px" padding="0" line-height="1.2" />
+			<mj-image padding="0" />
+			<mj-column padding="0" />
+			<mj-class name="bold" font-weight="bold" />
+			<mj-class name="light" color="#81AF37" />
+			<mj-class name="dark" color="#006935" />
+		</mj-attributes>
+	</mj-head>
+	<mj-body width="600px">
+		<mj-raw><div class="body-left"></mj-raw>
+		<mj-section padding-bottom="20px">
+			<mj-column>
+				<mj-text mj-class="dark bold">Met vriendelijke groet,</mj-text>
+				<mj-text>
+					<br />
+					Bastiaan Hulsbos<br />
+					Marketing Manager<br />
+					06 - 123 456 78<br />
+					0297 - 237537
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section text-align="left">
+			<mj-column width="223px" padding="0 20px 20px 0">
+				<mj-image
+					align="right"
+					height="50px"
+					width="203px"
+					src="https://vanschie.com/wp-content/uploads/2018/06/logo-van-schie.png"
+					alt="logo"
+				/>
+				<mj-text align="right" padding-top="10px" font-size="12px">
+					Contstructieweg 100<br />
+					3641 SP Mijdrecht
+				</mj-text>
+			</mj-column>
+			<mj-column width="223px" padding="12px 0 0 20px">
+				<mj-text mj-class="light bold">
+					Zo pakken we zaken aan...
+				</mj-text>
+				<mj-text mj-class="dark"> Bekijk onze projecten </mj-text>
+				<mj-table width="78px" padding-top="10px">
+					<tr>
+						<td>
+							<a
+								href="https://www.facebook.com/VanSchieBV"
+								target="_blank"
+							>
+								<img
+									src="https://switchserver.nl/nieuwsbrief/vanschie/facebook.png"
+								/>
+							</a>
+						</td>
+						<td>
+							<a
+								href="https://www.youtube.com/channel/UCdQu0mrVF-5ubWnGrRNhOXQ"
+								target="_blank"
+							>
+								<img
+									src="https://switchserver.nl/nieuwsbrief/vanschie/youtube.png"
+								/>
+							</a>
+						</td>
+						<td>
+							<a
+								href="https://www.linkedin.com/company/van-schie/"
+								target="_blank"
+							>
+								<img
+									src="https://switchserver.nl/nieuwsbrief/vanschie/linkedin.png"
+								/>
+							</a>
+						</td>
+					</tr>
+				</mj-table>
+			</mj-column>
+		</mj-section>
+		<mj-raw></div></mj-raw>
+	</mj-body>
+</mjml>
