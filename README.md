@@ -52,3 +52,5 @@ Open Outlook en maak een nieuwe mail.
 **Apple**: Plak de gekopieerde tekst in de handtekening (CMD+V) en klik op opslaan.
 
 Klik het nieuwe mailtje weg. Je handtekening is nu goed ingesteld, test hem gerust even. Lukt het niet, laat het even weten!
+
+https://team-switch-reclamebureau.github.io/signatures/
