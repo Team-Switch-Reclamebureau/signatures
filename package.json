@@ -1,0 +1,23 @@
+{
+	"name": "email-signatures",
+	"version": "1.0.0",
+	"description": "Email signature generator for Team Switch",
+	"main": "generate-signatures.js",
+	"scripts": {
+		"generate": "node generate-signatures.js",
+		"watch": "nodemon generate-signatures.js"
+	},
+	"keywords": [
+		"signatures",
+		"email",
+		"generator"
+	],
+	"author": "Team Switch",
+	"license": "MIT",
+	"dependencies": {
+		"handlebars": "^4.7.7"
+	},
+	"devDependencies": {
+		"nodemon": "^3.1.11"
+	}
+}

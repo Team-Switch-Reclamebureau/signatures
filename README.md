@@ -8,7 +8,7 @@ Het is weer tijd voor een nieuwe handtekening!
 
 Dat lees je hier 👇🏻
 
-## Stap 1
+### Stap 1
 
 **Windows**: Open jouw handtekening door hieronder bij je naam op een link te klikken in Chrome of Firefox (dus niet in Internet Explorer of Edge). Selecteer alles (CTRL+A), kopieer vervolgens alles (CTRL+C).
 
@@ -33,23 +33,23 @@ Dat lees je hier 👇🏻
 | Tijmen         | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/tijmen.html)  | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/tijmen.html)  | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/tijmen.html)  |
 | Wil            | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/wil.html)     | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/wil.html)     | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/wil.html)     |
 
-## Stap 2
+### Stap 2
 
 Open Outlook en maak een nieuwe mail.
 
-## Stap 3
+### Stap 3
 
 **Windows**: Ga naar ‘handtekening’ en klik vervolgens op ‘Handtekeningen’.
 
 **Apple**: Ga naar ‘handtekeningen’ en klik vervolgens op ‘Wijzig handtekening’.
 
-## Stap 4
+### Stap 4
 
 **Windows**: Selecteer je oude Switch handtekening en maak deze leeg. Alles selecteren en dan op delete drukken.
 
 **Apple**: Selecteer je oude Switch handtekening, klik op Edit en maak deze leeg. Alles selecteren (CMD+A) en dan op backspace drukken.
 
-## Stap 5
+### Stap 5
 
 **Windows**: Plak de gekopieerde tekst in de handtekening (CTRL+V) en klik op opslaan.
 
@@ -58,3 +58,9 @@ Open Outlook en maak een nieuwe mail.
 Klik het nieuwe mailtje weg. Je handtekening is nu goed ingesteld, test hem gerust even. Lukt het niet, laat het even weten!
 
 https://team-switch-reclamebureau.github.io/signatures/
+
+## Voor ontwikkelaars
+1. pas de templates aan in de map `templates/`.
+2. pas contacten aan in `contacts.json`.
+3. `npm install` om dependencies te installeren.
+4. `npm run generate` om de handtekeningen te genereren.
