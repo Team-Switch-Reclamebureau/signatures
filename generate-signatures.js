@@ -11,6 +11,11 @@ const contacts = JSON.parse(contactsData).contacts;
 // Configuration for templates and variants
 const templates = [
 	{
+		name: '2026',
+		templatePath: './templates/2026.html',
+		outputDir: './2026',
+	},
+	{
 		name: 'original',
 		templatePath: './templates/original.html',
 		outputDir: './original',

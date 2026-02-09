@@ -36,7 +36,7 @@
 			"id": "jeffrey",
 			"name": "Jeffrey Kersloot",
 			"phone": "0297 - 525 580",
-            "mobile": "",
+            "mobile": "06 - 1015 9430",
 			"title": "",
 			"email": "jeffrey@teamswitch.nl"
 		},
@@ -127,6 +127,22 @@
             "mobile": "",
 			"title": "",
 			"email": "wil@teamswitch.nl"
+		},
+		{
+			"id": "kane",
+			"name": "Kane van der Graaf",
+			"phone": "0297 - 525 580",
+            "mobile": "",
+			"title": "",
+			"email": "kane@teamswitch.nl"
+		},
+		{
+			"id": "rense",
+			"name": "Rense Verlaan",
+			"phone": "0297 - 525 580",
+            "mobile": "",
+			"title": "",
+			"email": "rense@teamswitch.nl"
 		}
 	]
 }

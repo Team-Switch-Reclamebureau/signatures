@@ -14,24 +14,25 @@ Dat lees je hier 👇🏻
 
 **Apple**: Open jouw handtekening door hieronder bij je naam op een link te klikken in Chrome of Firefox (dus niet in Safari). Selecteer alles (CMD+A), kopieer vervolgens alles (CMD+C).
 
-| Handtekeningen |                                                                                         |                                                                                    |                                                                                          |
-| -------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Claudia        | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/claudia.html) | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/claudia.html) | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/claudia.html) |
-| Daniël         | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/daniel.html)  | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/daniel.html)  | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/daniel.html)  |
-| Enrique        | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/enrique.html) | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/enrique.html) | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/enrique.html) |
-| Ilse           | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/ilse.html)    | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/ilse.html)    | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/ilse.html)    |
-| Jeffrey        | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/jeffrey.html) | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/jeffrey.html) | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/jeffrey.html) |
-| Kevin          | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/kevin.html)   | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/kevin.html)   | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/kevin.html)   |
-| Levi           | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/levi.html)    | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/levi.html)    | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/levi.html)    |
-| Lisanne        | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/lisanne.html) | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/lisanne.html) | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/lisanne.html) |
-| Marco          | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/marco.html)   | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/marco.html)   | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/marco.html)   |
-| Marjan         | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/marjan.html)  | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/marjan.html)  | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/marjan.html)  |
-| Mick           | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/mick.html)    | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/mick.html)    | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/mick.html)    |
-| Ralph          | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/ralph.html)   | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/ralph.html)   | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/ralph.html)   |
-| Sanne          | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/sanne.html)   | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/sanne.html)   | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/sanne.html)   |
-| Thomas         | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/thomas.html)  | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/thomas.html)  | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/thomas.html)  |
-| Tijmen         | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/tijmen.html)  | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/tijmen.html)  | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/tijmen.html)  |
-| Wil            | [Normaal](https://team-switch-reclamebureau.github.io/signatures/original/wil.html)     | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/wil.html)     | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/wil.html)     |
+| Handtekeningen |                                                                                      |                                                                                    |                                                                                          |
+| -------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Claudia        | [2026](https://team-switch-reclamebureau.github.io/signatures/original/claudia.html) | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/claudia.html) | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/claudia.html) |
+| Daniël         | [2026](https://team-switch-reclamebureau.github.io/signatures/original/daniel.html)  | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/daniel.html)  | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/daniel.html)  |
+| Enrique        | [2026](https://team-switch-reclamebureau.github.io/signatures/original/enrique.html) | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/enrique.html) | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/enrique.html) |
+| Ilse           | [2026](https://team-switch-reclamebureau.github.io/signatures/original/ilse.html)    | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/ilse.html)    | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/ilse.html)    |
+| Jeffrey        | [2026](https://team-switch-reclamebureau.github.io/signatures/original/jeffrey.html) | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/jeffrey.html) | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/jeffrey.html) |
+| Kane           | [2026](https://team-switch-reclamebureau.github.io/signatures/original/kane.html)    | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/kane.html)    | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/kane.html)    |
+| Kevin          | [2026](https://team-switch-reclamebureau.github.io/signatures/original/kevin.html)   | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/kevin.html)   | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/kevin.html)   |
+| Levi           | [2026](https://team-switch-reclamebureau.github.io/signatures/original/levi.html)    | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/levi.html)    | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/levi.html)    |
+| Marco          | [2026](https://team-switch-reclamebureau.github.io/signatures/original/marco.html)   | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/marco.html)   | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/marco.html)   |
+| Marjan         | [2026](https://team-switch-reclamebureau.github.io/signatures/original/marjan.html)  | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/marjan.html)  | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/marjan.html)  |
+| Mick           | [2026](https://team-switch-reclamebureau.github.io/signatures/original/mick.html)    | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/mick.html)    | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/mick.html)    |
+| Ralph          | [2026](https://team-switch-reclamebureau.github.io/signatures/original/ralph.html)   | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/ralph.html)   | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/ralph.html)   |
+| Rense          | [2026](https://team-switch-reclamebureau.github.io/signatures/original/rense.html)   | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/rense.html)   | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/rense.html)   |
+| Sanne          | [2026](https://team-switch-reclamebureau.github.io/signatures/original/sanne.html)   | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/sanne.html)   | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/sanne.html)   |
+| Thomas         | [2026](https://team-switch-reclamebureau.github.io/signatures/original/thomas.html)  | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/thomas.html)  | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/thomas.html)  |
+| Tijmen         | [2026](https://team-switch-reclamebureau.github.io/signatures/original/tijmen.html)  | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/tijmen.html)  | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/tijmen.html)  |
+| Wil            | [2026](https://team-switch-reclamebureau.github.io/signatures/original/wil.html)     | [Kerst](https://team-switch-reclamebureau.github.io/signatures/kerst/wil.html)     | [Nieuwjaar](https://team-switch-reclamebureau.github.io/signatures/newyear/wil.html)     |
 
 ### Stap 2
 
@@ -57,10 +58,12 @@ Open Outlook en maak een nieuwe mail.
 
 Klik het nieuwe mailtje weg. Je handtekening is nu goed ingesteld, test hem gerust even. Lukt het niet, laat het even weten!
 
-https://team-switch-reclamebureau.github.io/signatures/
 
 ## Voor ontwikkelaars
+
 1. pas de templates aan in de map `templates/`.
 2. pas contacten aan in `contacts.json`.
 3. `npm install` om dependencies te installeren.
 4. `npm run generate` om de handtekeningen te genereren.
+
+https://team-switch-reclamebureau.github.io/signatures/
