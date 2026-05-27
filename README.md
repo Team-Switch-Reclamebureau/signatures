@@ -28,6 +28,7 @@ Dat lees je hier 👇🏻
 | Marjan         | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/marjan.html)  |
 | Mick           | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/mick.html)    |
 | Ralph          | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/ralph.html)   |
+| Ruby           | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/ruby.html)   |
 | Rense          | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/rense.html)   |
 | Sanne          | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/sanne.html)   |
 | Thomas         | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/thomas.html)  |

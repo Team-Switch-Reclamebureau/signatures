@@ -73,14 +73,14 @@ templates.forEach((template) => {
 			const html = compiledTemplate(contact);
 			const outputPath = path.join(
 				template.outputDir,
-				`${contact.id}.html`
+				`${contact.id}.html`,
 			);
 			fs.writeFileSync(outputPath, html);
 			console.log(`✅ Generated: ${outputPath}`);
 		} catch (error) {
 			console.error(
 				`❌ Error generating ${contact.id} for ${template.name}:`,
-				error.message
+				error.message,
 			);
 		}
 	});

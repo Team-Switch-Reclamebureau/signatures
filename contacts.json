@@ -97,6 +97,14 @@
 			"email": "ralph@teamswitch.nl"
 		},
 		{
+			"id": "ruby",
+			"name": "Ruby van de Wetering",
+			"phone": "0297 - 525 580",
+            "mobile": "",
+			"title": "",
+			"email": "ruby@teamswitch.nl"
+		},
+		{
 			"id": "sanne",
 			"name": "Sanne Romijn",
 			"phone": "0297 - 525 580",
