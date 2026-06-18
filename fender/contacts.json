@@ -1,0 +1,100 @@
+{
+	"contacts": [
+		{
+			"id": "rick",
+			"name": "Rick Zegers",
+			"phone": "+31 (0)180 769138",
+			"mobile": "+31 (0)6 21542976",
+			"title": "",
+			"email": "rick@fenderbv.nl"
+		},
+		{
+			"id": "remona",
+			"name": "Remona Muijlwijk",
+			"phone": "+31 (0)180 769138",
+			"mobile": "",
+			"title": "",
+			"email": "remona@fenderbv.nl"
+		},
+		{
+			"id": "robin",
+			"name": "Robin Malipaard",
+			"phone": "+31 (0)180 769138",
+			"mobile": "+31 (0)6 15059690",
+			"title": "",
+			"email": "robin@fenderbv.nl"
+		},
+		{
+			"id": "george",
+			"name": "George Pavel",
+			"phone": "+31 (0)180 769138",
+			"mobile": "+31 (0)6 21448591",
+			"title": "",
+			"email": "george@fenderbv.nl"
+		},
+		{
+			"id": "clari",
+			"name": "Clari de Ruiter",
+			"phone": "+31 (0)180 769138",
+			"mobile": "",
+			"title": "",
+			"email": "clari@fenderbv.nl"
+		},
+		{
+			"id": "arjan",
+			"name": "Arjan Moll",
+			"phone": "+31 (0)180 769138",
+			"mobile": "+31 (0)6 21404609",
+			"title": "",
+			"email": "arjan@fenderbv.nl"
+		},
+		{
+			"id": "tom",
+			"name": "Tom van Beek",
+			"phone": "+31 (0)180 769138",
+			"mobile": "+31 (0)6 53950017",
+			"title": "",
+			"email": "tom@fenderbv.nl"
+		},
+		{
+			"id": "ernst",
+			"name": "Ernst Both",
+			"phone": "+31 (0)180 769138",
+			"mobile": "+31 (0)6 11066119",
+			"title": "",
+			"email": "ernst@fenderbv.nl"
+		},
+		{
+			"id": "joris",
+			"name": "Joris van Uffelen",
+			"phone": "+31 (0)180 769138",
+			"mobile": "+31 (0)6 27463971",
+			"title": "",
+			"email": "joris@fenderbv.nl"
+		},
+		{
+			"id": "timo",
+			"name": "Timo Rijsdijk",
+			"phone": "+31 (0)180 769138",
+			"mobile": "+31 (0)6 14014617",
+			"title": "",
+			"email": "timo@fenderbv.nl"
+		},
+		{
+			"id": "elly",
+			"name": "Elly van Uffelen",
+			"phone": "+31 (0)180 769138",
+			"mobile": "",
+			"title": "",
+			"email": "elly@fenderbv.nl"
+		},
+		{
+			"id": "dennis",
+			"name": "Dennis van de Fijnaart",
+			"phone": "+31 (0)180 769138",
+			"mobile": "+31 (0)6 27350444",
+			"title": "",
+			"email": "dennis@fenderbv.nl"
+		}
+	]
+}
