@@ -21,7 +21,6 @@ Hier de instructies voor het instellen van de nieuwe Fender e-mail handtekeninge
 | Remona         | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/fender/2026/remona.html) |
 | Rick           | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/fender/2026/rick.html)   |
 | Robin          | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/fender/2026/robin.html)  |
-| Timo           | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/fender/2026/timo.html)   |
 | Tom            | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/fender/2026/tom.html)    |
 
 ### Stap 2
