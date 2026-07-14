@@ -15,7 +15,8 @@
 	"author": "Team Switch",
 	"license": "MIT",
 	"dependencies": {
-		"handlebars": "^4.7.7"
+		"handlebars": "^4.7.7",
+		"sharp": "^0.35.3"
 	},
 	"devDependencies": {
 		"nodemon": "^3.1.11"
