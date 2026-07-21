@@ -13,6 +13,7 @@ Hier de instructies voor het instellen van de nieuwe Fender e-mail handtekeninge
 | Handtekeningen |                                                                                                         |
 | -------------- | ------------------------------------------------------------------------------------------------------- |
 | Arjan          | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/fender/2026/arjan.html)  |
+| Clari          | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/fender/2026/clari.html)  |
 | Dennis         | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/fender/2026/dennis.html) |
 | Elly           | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/fender/2026/elly.html)   |
 | Ernst          | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/fender/2026/ernst.html)  |
