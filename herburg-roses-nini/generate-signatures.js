@@ -15,6 +15,21 @@ const templates = [
 		templatePath: './templates/2026.html',
 		outputDir: './2026',
 	},
+	{
+		name: '2026-a',
+		templatePath: './templates/2026-a.html',
+		outputDir: './2026-a',
+	},
+	{
+		name: '2026-b',
+		templatePath: './templates/2026-b.html',
+		outputDir: './2026-b',
+	},
+	{
+		name: '2026-c',
+		templatePath: './templates/2026-c.html',
+		outputDir: './2026-c',
+	},
 ];
 
 // Create output directories if they don't exist

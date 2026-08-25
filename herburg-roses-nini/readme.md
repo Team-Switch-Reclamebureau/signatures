@@ -10,9 +10,12 @@ Hier de instructies voor het instellen van de nieuwe Herburg Roses Nini e-mail h
 
 **Apple**: Open jouw handtekening door hieronder bij je naam op een link te klikken in Chrome of Firefox (dus niet in Safari). Selecteer alles (CMD+A), kopieer vervolgens alles (CMD+C).
 
-| Handtekeningen |                                                                                                         |
-| -------------- | ------------------------------------------------------------------------------------------------------- |
-| Iris          | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/herburg-roses-nini/2026/iris.html)  |
+| Handtekeningen         |                                                                                                                     |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Iris (Geen aanpassing) | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/herburg-roses-nini/2026/iris.html)   |
+| Iris (variant A)       | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/herburg-roses-nini/2026-a/iris.html) |
+| Iris (variant B)       | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/herburg-roses-nini/2026-b/iris.html) |
+| Iris (variant C)       | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/herburg-roses-nini/2026-c/iris.html) |
 
 ### Stap 2
 
