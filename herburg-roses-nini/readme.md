@@ -16,6 +16,7 @@ Hier de instructies voor het instellen van de nieuwe Herburg Roses Nini e-mail h
 | Iris (variant A)       | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/herburg-roses-nini/2026-a/iris.html) |
 | Iris (variant B)       | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/herburg-roses-nini/2026-b/iris.html) |
 | Iris (variant C)       | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/herburg-roses-nini/2026-c/iris.html) |
+| Iris (variant D)       | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/herburg-roses-nini/2026-d/iris.html) |
 
 ### Stap 2
 
