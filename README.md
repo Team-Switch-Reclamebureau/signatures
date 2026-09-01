@@ -16,24 +16,24 @@ Dat lees je hier 👇🏻
 
 | Handtekeningen |                                                                                                                 |
 | -------------- | --------------------------------------------------------------------------------------------------------------- |
-| Claudia        | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/claudia.html) |
-| Daniël         | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/daniel.html)  |
-| Enrique        | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/enrique.html) |
-| Ilse           | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/ilse.html)    |
-| Jeffrey        | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/jeffrey.html) |
-| Kane           | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/kane.html)    |
-| Kevin          | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/kevin.html)   |
-| Levi           | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/levi.html)    |
-| Marco          | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/marco.html)   |
-| Marjan         | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/marjan.html)  |
-| Mick           | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/mick.html)    |
-| Ralph          | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/ralph.html)   |
-| Ruby           | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/ruby.html)   |
-| Rense          | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/rense.html)   |
-| Sanne          | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/sanne.html)   |
-| Thomas         | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/thomas.html)  |
-| Tijmen         | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/tijmen.html)  |
-| Wil            | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/2026/wil.html)     |
+| Claudia        | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/claudia.html) |
+| Daniël         | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/daniel.html)  |
+| Enrique        | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/enrique.html) |
+| Ilse           | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/ilse.html)    |
+| Jeffrey        | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/jeffrey.html) |
+| Kane           | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/kane.html)    |
+| Kevin          | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/kevin.html)   |
+| Levi           | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/levi.html)    |
+| Marco          | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/marco.html)   |
+| Marjan         | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/marjan.html)  |
+| Mick           | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/mick.html)    |
+| Ralph          | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/ralph.html)   |
+| Ruby           | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/ruby.html)   |
+| Rense          | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/rense.html)   |
+| Sanne          | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/sanne.html)   |
+| Thomas         | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/thomas.html)  |
+| Tijmen         | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/tijmen.html)  |
+| Wil            | [normaal (nieuwe huisstijl 2026)](https://team-switch-reclamebureau.github.io/signatures/switch/2026/wil.html)     |
 
 ### Stap 2
 
