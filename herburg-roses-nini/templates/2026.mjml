@@ -1,0 +1,121 @@
+<mjml>
+	<mj-head>
+		<mj-breakpoint width="600px" />
+		<mj-style>
+			.align-left {
+				margin-left: 0 !important;
+				margin-right: auto !important;
+			}
+		</mj-style>
+
+		<mj-attributes>
+			<mj-all
+				font-family="Verdana, sans-serif"
+				font-size="12px"
+				padding="0"
+				color="#414142"
+			/>
+			<mj-text font-size="12px" padding="0" line-height="1.2" />
+			<mj-image padding="0" />
+			<mj-section padding-bottom="10px" css-class="align-left" />
+			<mj-column padding="0" />
+			<mj-class
+				name="title"
+				font-size="14px"
+				font-weight="bold"
+				font-style="italic"
+			/>
+			<mj-class name="green" color="#485B3F" />
+		</mj-attributes>
+	</mj-head>
+	<mj-body width="600px">
+		<mj-section padding-bottom="20px" css-class="align-left">
+			<mj-column>
+				<mj-text>
+					Met vriendelijke groet/Kind regards,<br />
+					{{ name }}<br />
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section>
+			<mj-column width="100px">
+				<mj-image
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/signatures/herburg-roses-nini/2026/img/logo.jpg"
+					alt="Herburg Roses Nini logo"
+				/>
+			</mj-column>
+			<mj-column width="10px"> </mj-column>
+			<mj-column width="490px">
+				<mj-text mj-class="title green" padding-bottom="10px"
+					>Our impact blooms beyond our farms</mj-text
+				>
+				<mj-text padding-bottom="10px">
+					<a
+						style="text-decoration: none; color: #414142"
+						href="mailto:{{email}}"
+						>{{ email }}</a
+					><br />
+
+					<a
+						style="text-decoration: none; color: #414142"
+						href="tel:{{#if mobile}} {{mobile}} {{else}} {{phone}} {{/if}}"
+						>{{#if
+                    mobile}}
+						{{ mobile }} {{else}} {{ phone }} {{/if}}</a
+					><br />
+				</mj-text>
+				<mj-raw>
+					<table cellpadding="0" role="presentation"> <tr> <td
+					style="font-size: 12px; font-family: Verdana, sans-serif;
+					text-decoration: none; padding: 0;"> <a
+					href="https://www.herburgroses-nini.com" style="color:
+					#485B3F; text-decoration: none; font-weight:
+					bold;">www.herburgroses-nini.com</a> </td> <td
+					style="padding: 0;"> <a
+					href="https://www.linkedin.com/company/herburg-roses/?originalSubdomain=nl">
+					<img
+					src="https://team-switch-reclamebureau.github.io/signatures/herburg-roses-nini/2026/img/linkedin.jpg"
+					alt="LinkdIn logo" width="35" height="30" style="display:
+					block; border: 0; outline: 0;"> </a> </td> <td
+					style="padding: 0;"> <a
+					href="https://www.instagram.com/herburg_nini/"> <img
+					src="https://team-switch-reclamebureau.github.io/signatures/herburg-roses-nini/2026/img/instagram.jpg"
+					alt="Instagram logo" width="35" height="30" style="display:
+					block; border: 0; outline: 0;"> </a> </td> </tr> </table>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+		<mj-section>
+			<mj-column width="600px">
+				<mj-divider border-color="#cccccc" border-width="1px" />
+			</mj-column>
+		</mj-section>
+		<mj-section>
+			<mj-column width="414px">
+				<mj-text color="#868686" font-size="4px" line-height="1.5">
+					Disclaimer: The information contained in this message may be
+					confidential and is intended exclusively for the
+					addressee(s). If you receive this message in error, you are
+					requested not to use the content and to inform the sender by
+					returning the message and removing it from your files. The
+					sender's employer does not accept any liability for any
+					damage resulting from the use and/or acceptance of the
+					content of the message. The sender's employer is also not
+					liable for the contentand any harmful consequences of
+					personal e-mail messages sent by its employees.
+				</mj-text>
+			</mj-column>
+			<mj-column width="10px"> </mj-column>
+			<mj-column width="176px">
+				<mj-image
+					align="left"
+					width="176px"
+					height="29px"
+					src="https://team-switch-reclamebureau.github.io/signatures/herburg-roses-nini/2026/img/banner.jpg"
+					alt="Herburg Roses Nini banner"
+				/>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
