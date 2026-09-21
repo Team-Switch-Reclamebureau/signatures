@@ -45,7 +45,10 @@ templates.forEach((template) => {
 
 	contacts.forEach((contact) => {
 		try {
-			const html = compiledTemplate(contact);
+			const html = compiledTemplate(contact).replaceAll(
+				'<table align="center"',
+				'<table align="left"',
+			);
 			const outputPath = path.join(
 				template.outputDir,
 				`${contact.id}.html`,
