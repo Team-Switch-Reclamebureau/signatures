@@ -32,8 +32,8 @@ Open Outlook en maak een nieuwe mail.
 
 ### Stap 5
 
-**Windows**: Plak de gekopieerde tekst in de handtekening (CTRL+V) en klik op opslaan.
+**Windows**: Plak de gekopieerde tekst in de handtekening (CTRL+V), pas aan waar nodig en klik op opslaan.
 
-**Apple**: Plak de gekopieerde tekst in de handtekening (CMD+V) en klik op opslaan.
+**Apple**: Plak de gekopieerde tekst in de handtekening (CMD+V), pas aan waar nodig en klik op opslaan.
 
 Klik het nieuwe mailtje weg. Je handtekening is nu goed ingesteld, test hem gerust even. Lukt het niet, laat het even weten!
