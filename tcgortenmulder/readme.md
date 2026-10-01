@@ -12,7 +12,7 @@ Hier de instructies voor het instellen van de nieuwe T.C. Gortemulder e-mail han
 
 | Handtekeningen |                                                                                                                     |
 | -------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Jean-Paul      | [nieuwe huisstijl 2026](https://team-switch-reclamebureau.github.io/signatures/tc-gortenmulder/2026/jean-paul.html) |
+| Jean-Paul      | [link](https://team-switch-reclamebureau.github.io/signatures/tc-gortenmulder/2026/jean-paul.html) |
 
 ### Stap 2
 
