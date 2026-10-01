@@ -1,0 +1,10 @@
+{
+	"contacts": [
+		{
+			"id": "jean-paul",
+			"name": "Jean-Paul Loman",
+			"phone": "0297-281809",
+			"mobile": false
+		}
+	]
+}
