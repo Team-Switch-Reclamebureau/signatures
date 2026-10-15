@@ -1,14 +1,6 @@
 {
 	"contacts": [
 		{
-			"id": "claudia",
-			"name": "Claudia de Groot",
-			"phone": "0297 - 525 580",
-            "mobile": "06 - 1119 1269",
-			"title": "",
-			"email": "claudia@teamswitch.nl"
-		},
-		{
 			"id": "daniel",
 			"name": "Daniël Storm",
 			"phone": "0297 - 525 580",
@@ -25,14 +17,6 @@
 			"email": "enrique@teamswitch.nl"
 		},
 		{
-			"id": "ilse",
-			"name": "Ilse Mulder",
-			"phone": "0297 - 525 580",
-			"mobile": "06 - 3805 8993",
-			"title": "",
-			"email": "ilse@teamswitch.nl"
-		},
-		{
 			"id": "jeffrey",
 			"name": "Jeffrey Kersloot",
 			"phone": "0297 - 525 580",
@@ -47,22 +31,6 @@
             "mobile": "",
 			"title": "",
 			"email": "kevin@teamswitch.nl"
-		},
-		{
-			"id": "levi",
-			"name": "Levi van Kreuningen",
-			"phone": "0297 - 525 580",
-            "mobile": "",
-			"title": "",
-			"email": "levi@teamswitch.nl"
-		},
-		{
-			"id": "lisanne",
-			"name": "Lisanne Kroon",
-			"phone": "0297 - 525 580",
-            "mobile": "06 - 3805 8993",
-			"title": "",
-			"email": "lisanne@teamswitch.nl"
 		},
 		{
 			"id": "marco",
@@ -135,22 +103,6 @@
             "mobile": "",
 			"title": "",
 			"email": "wil@teamswitch.nl"
-		},
-		{
-			"id": "kane",
-			"name": "Kane van der Graaf",
-			"phone": "0297 - 525 580",
-            "mobile": "",
-			"title": "",
-			"email": "kane@teamswitch.nl"
-		},
-		{
-			"id": "rense",
-			"name": "Rense Verlaan",
-			"phone": "0297 - 525 580",
-            "mobile": "",
-			"title": "",
-			"email": "rense@teamswitch.nl"
 		}
 	]
 }
